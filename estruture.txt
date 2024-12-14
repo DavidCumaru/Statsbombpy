@@ -1,0 +1,11 @@
+AT
+    API_FAST
+        main.py
+    data
+        detalhes.ipynb
+        narracao_personalizada_llm.py
+    streamlit
+        api_st.py
+        lang_llm.py
+        main_st.py
+        narracao_personalizada_st.py
