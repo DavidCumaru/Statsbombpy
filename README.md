@@ -1,5 +1,13 @@
 # Realização das tarefas do AT de Desenvolvimento de Data-Driven Apps com Python
 
+## Rodar o projeto 
+
+Crie um .env e coloque sua GEMINI_KEY.
+
+As pastas streamlit não estão paginadas então terá que rodar 1 por 1.
+
+Crie um venv e baixe os requirements necessários para rodar o projeto.
+
 ## Estrutura do projeto
 
 AT  
